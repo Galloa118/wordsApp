@@ -1,18 +1,114 @@
 [
     {
-        "word": "word1",
-        "url": "http://dle.rae.es/?w=buche"
+    	"word":"cenotafio",
+    	"url":"http://dle.rae.es/?w=ccenotafio"
     },
     {
-        "word": "word2",
-        "url": "http://dle.rae.es/?w=buche"
+    	"word":"displicencia",
+    	"url":"http://dle.rae.es/?w=cdisplicencia"
     },
     {
-        "word": "word3",
-        "url": "http://dle.rae.es/?w=buche"
+    	"word":"espuria",
+    	"url":"http://dle.rae.es/?w=cespuria"
     },
     {
-        "word": "word4",
-        "url": "http://dle.rae.es/?w=buche"
+    	"word":"falleba",
+    	"url":"http://dle.rae.es/?w=cfalleba"
+    },
+    {
+    	"word":"indolente",
+    	"url":"http://dle.rae.es/?w=cindolente"
+    },
+    {
+    	"word":"lambrequín",
+    	"url":"http://dle.rae.es/?w=clambrequín"
+    },
+    {
+    	"word":"lazareto",
+    	"url":"http://dle.rae.es/?w=clazareto"
+    },
+    {
+    	"word":"martingala",
+    	"url":"http://dle.rae.es/?w=cmartingala"
+    },
+    {
+    	"word":"penacho",
+    	"url":"http://dle.rae.es/?w=cpenacho"
+    },
+    {
+    	"word":"roséola",
+    	"url":"http://dle.rae.es/?w=croséola"
+    },
+    {
+    	"word":"socaliña",
+    	"url":"http://dle.rae.es/?w=csocaliña"
+    },
+    {
+    	"word":"zaranda",
+    	"url":"http://dle.rae.es/?w=czaranda"
+    },
+    {
+    	"word":"tacho",
+    	"url":"http://dle.rae.es/?w=ctacho"
+    },
+    {
+    	"word":"fútil",
+    	"url":"http://dle.rae.es/?w=cfútil"
+    },
+    {
+    	"word":"pergeñar",
+    	"url":"http://dle.rae.es/?w=cpergeñar"
+    },
+    {
+    	"word":"apodíctico",
+    	"url":"http://dle.rae.es/?w=capodíctico"
+    },
+    {
+    	"word":"almilla",
+    	"url":"http://dle.rae.es/?w=calmilla"
+    },
+    {
+    	"word":"asentista",
+    	"url":"http://dle.rae.es/?w=casentista"
+    },
+    {
+    	"word":"derviche",
+    	"url":"http://dle.rae.es/?w=cderviche"
+    },
+    {
+    	"word":"holanda",
+    	"url":"http://dle.rae.es/?w=cholanda"
+    },
+    {
+    	"word":"fatuo",
+    	"url":"http://dle.rae.es/?w=cfatuo"
+    },
+    {
+    	"word":"médano",
+    	"url":"http://dle.rae.es/?w=cmédano"
+    },
+    {
+    	"word":"quincalla",
+    	"url":"http://dle.rae.es/?w=cquincalla"
+    },
+    {
+    	"word":"torunda",
+    	"url":"http://dle.rae.es/?w=ctorunda"
+    },
+    {
+    	"word":"gañido",
+    	"url":"http://dle.rae.es/?w=cgañido"
+    },
+    {
+    	"word":"picana",
+    	"url":"http://dle.rae.es/?w=cpicana"
+    },
+    {
+    	"word":"escabel",
+    	"url":"http://dle.rae.es/?w=cescabel"
+    },
+    {
+    	"word":"chacolotear",
+    	"url":"http://dle.rae.es/?w=cchacolotear"
     }
 ]
