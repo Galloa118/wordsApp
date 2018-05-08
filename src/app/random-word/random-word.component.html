@@ -1,0 +1,8 @@
+<button (click)="getRandomWord()">Get random word!</button>
+<div *ngIf="randomWord">
+  <p>
+      Word: {{ randomWord.word }} <a href="javascript:void(0);" (click)="seeDefinition()"> (see definition)</a>
+  </p>
+</div>
+
+<app-word-definition [word]="randomWord" [seeWordDefinition]="seeWordDefinition"></app-word-definition>
