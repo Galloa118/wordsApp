@@ -11,8 +11,10 @@ export class WordDefinitionComponent implements OnInit {
   @Input() word: any;
   @Input() seeWordDefinition: boolean;
   definitionUrl: string;
+  @Input() htmlContent: any;
 
-  constructor(private sanitizer: DomSanitizer) { }
+  constructor(private sanitizer: DomSanitizer) {
+  }
 
   ngOnInit() {
   }

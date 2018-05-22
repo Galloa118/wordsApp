@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { WordsService } from '../words.service';
+import { HttpClient } from '@angular/common/http';
 
 @Component({
   selector: 'app-random-word',
@@ -11,7 +12,8 @@ export class RandomWordComponent implements OnInit {
   words: any[];
   randomWord: any;
   seeWordDefinition: boolean;
-  constructor(private wordService: WordsService) { }
+  htmlContent: any;
+  constructor(private wordService: WordsService, private http: HttpClient) { }
 
   ngOnInit() {
     this.wordService.getWords().subscribe((data: any) => this.words = data);
@@ -25,6 +27,6 @@ export class RandomWordComponent implements OnInit {
   }
 
   seeDefinition() {
-    this.seeWordDefinition = true;
+    var newWindow = window.open(this.randomWord.url);
   }
 }
