@@ -4,7 +4,7 @@ import { HttpClient } from '@angular/common/http';
 @Injectable()
 export class WordsService {
 
-  wordsUrl = '/assets/words.json';
+  wordsUrl = 'words-app/assets/words.json';
 
   constructor(private http: HttpClient) { }
 
